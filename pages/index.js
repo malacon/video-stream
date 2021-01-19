@@ -160,7 +160,7 @@ export default function Home() {
           John Paul the Great Academy is a small, independent, Catholic school
           that provides a rigorous classical education in liberal arts and
           sciences and promotes the sacred traditions of the Roman Catholic
-          Church. Our mission depends on support from people like you.
+          Church. Our mission depends on support from people like you.{" "}
         </p>
 
         <iframe
